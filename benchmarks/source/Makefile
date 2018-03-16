@@ -8,6 +8,7 @@ DIRS =\
 	sphinx3/src/libfbs\
 	swradio\
 	sbench\
+	zhao_pedometer\
 
 #	swradio-pthread\
 #	libsfpthread\
